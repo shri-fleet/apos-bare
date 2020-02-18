@@ -29,7 +29,7 @@ var apos = require('apostrophe')({
     types: [
       //This is the new section
       {
-        name: 'sensnewtemp',
+        name: 'default',
         label: 'Sendhuraan New Template'
       },
       //The rest is what what was there already
